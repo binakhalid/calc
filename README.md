@@ -1,5 +1,7 @@
 # Scientific Calculator
 
+https://binakhalid.github.io/calc/site/
+
 User Story:
 I can add, subtract, multiply and divide numbers.
 I can clear the input field with a clear button.
